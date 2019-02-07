@@ -1,7 +1,44 @@
 {
   "suggestions": [
-    { "value": "United Arab Emirates", "data": "AE" },
-    { "value": "United Kingdom",       "data": "UK" },
-    { "value": "United States",        "data": "US" }
+    {
+      "value": "Петров И.А.",
+      "data": "1"
+    },
+    {
+      "value": "Сидоров В.М.",
+      "data": "2"
+    },
+    {
+      "value": "Иванов И.И.",
+      "data": "3"
+    },
+    {
+      "value": "Крутых Ф.П.",
+      "data": "4"
+    },
+    {
+      "value": "1Сидоров В.М.",
+      "data": "5"
+    },
+    {
+      "value": "1Иванов И.И.",
+      "data": "6"
+    },
+    {
+      "value": "1Крутых Ф.П.",
+      "data": "7"
+    },
+    {
+      "value": "2Сидоров В.М.",
+      "data": "8"
+    },
+    {
+      "value": "2Иванов И.И.",
+      "data": "9"
+    },
+    {
+      "value": "3Крутых Ф.П.",
+      "data": "10"
+    }
   ]
 }
